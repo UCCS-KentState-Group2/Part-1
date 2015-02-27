@@ -2,7 +2,7 @@
 Everyone upload there Part attempt here and we will compile one to submit
 
 Brock
--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 1.) Our system must allow a business to book a conference consisting of several sessions, or "special sessions".
 2.) Our system must allow a business to choose the equipment needed for a given session, the time of a session, the room 
